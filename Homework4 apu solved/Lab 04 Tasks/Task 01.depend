@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1693006115 source:g:\cse225 tasks\lab 04\task 01\unsortedtype.cpp
+	"unsortedtype.h"
+
+1693006115 g:\cse225 tasks\lab 04\task 01\unsortedtype.h
+
+1695239041 source:g:\cse225 tasks\lab 04\task 01\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+	"studentInfo.h"
+
+1693006115 g:\cse225 tasks\lab 04\task 01\unsortedtype.cpp
+	"unsortedtype.h"
+
+1695239125 source:g:\cse225 tasks\lab 04\task 01\studentinfo.cpp
+	"studentInfo.h"
+
+1693009618 g:\cse225 tasks\lab 04\task 01\studentinfo.h
+	<iostream>
+
